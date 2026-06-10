@@ -20,7 +20,11 @@
 
 There was a time — not long ago, not in living myth, but within the last generation — when the region was alive.
 
-The wetlands were a chorus: frogs calling across still water, herons stalking the shallows at dawn, mudfish threading through root systems that had been growing for centuries. The rainforest canopy was dense enough that sunlight fell in columns, interrupted. The reef glittered with movement. The mountains were cold and clean and permanent-feeling, their slopes grazed by the last wild populations of the Tamaraw — the dwarf buffalo found nowhere else on Earth.
+Back then, four distinct ecosystems thrived side by side:
+- **The wetlands** were a noisy chorus of frogs calling across still water, herons wading at dawn, and mudfish threading through ancient root systems.
+- **The rainforest canopy** grew so dense that sunlight could only filter down in broken columns.
+- **The coral reefs** glittered with constant movement under the waves.
+- **The mountain summits** rose cold and permanent, their slopes home to the last wild Tamaraw—the rare dwarf buffalo found nowhere else on Earth.
 
 It was not a pristine wilderness untouched by humans. People lived in it, beside it, because of it. They fished, farmed, traveled through it. The balance was not perfect. But it held.
 
@@ -34,19 +38,27 @@ No single disaster caused it. That is the hardest part to understand — and the
 
 It was **compounding**. Each damage made the next one easier.
 
-### 🏭 Industrial Runoff
+### 🐸 Level 1 — The Wetlands
+
+#### 🏭 Industrial Runoff
 Factories built along river tributaries discharged untreated waste directly into waterways. Agricultural pesticides and fertilizers followed the same routes. Heavy metals settled into wetland sediment. Fertilizer overload triggered algal blooms — blooms that consumed all the oxygen in the water when they died, suffocating everything below the surface in a process called **eutrophication**.
 
-### 🪵 Deforestation
-Logging roads cut through the rainforest canopy, breaking it apart. Without continuous tree cover, the forest could not regulate its own temperature or humidity. Fruiting cycles collapsed. Seed-dispersing birds lost their corridors. Trees stopped being replaced. The forest began to fragment — not disappear all at once, but shrink, thin, and isolate, until populations of native animals became stranded on ecological islands surrounded by cleared land.
-
-### 🐟 Invasive Species
+#### 🐟 Invasive Species
 They came through the same channels that trade always opens. Ships carrying ballast water released non-native fish. Agricultural programs introduced fast-breeding creatures meant to solve one problem and created several worse ones. Ornamental animals escaped into wild waterways. With no natural predators, their populations exploded. Native species — slower-reproducing, more specialized, adapted to a stable ecosystem rather than a destabilized one — could not compete.
 
-### 🌊 Ocean Acidification
+### 🦅 Level 2 — The Rainforest
+
+#### 🪵 Deforestation
+Logging roads cut through the rainforest canopy, breaking it apart. Without continuous tree cover, the forest could not regulate its own temperature or humidity. Fruiting cycles collapsed. Seed-dispersing birds lost their corridors. Trees stopped being replaced. The forest began to fragment — not disappear all at once, but shrink, thin, and isolate, until populations of native animals became stranded on ecological islands surrounded by cleared land.
+
+### 🦈 Level 3 — The Coral Reef
+
+#### 🌊 Ocean Acidification
 Carbon absorbed by the ocean had been quietly lowering the pH of reef waters for decades. Coral bleaching — the mass death of the microscopic algae that give reefs both their color and their nutrition — accelerated. A reef that had taken thousands of years to build began whitening and crumbling within years.
 
-### ⚡ E-Waste
+### 🐃 Level 4 — The Highland Mountains
+
+#### ⚡ E-Waste
 Old electronics, shipped from wealthier nations for "recycling," were dumped illegally in mountain regions. Heavy metals leached into highland soil and water. The final intact wilderness — the cold summits where the Tamaraw retreated from lowland pressure — became contaminated from above.
 
 > **The ecosystem did not fall. It was pushed, piece by piece, until falling was inevitable.**
@@ -177,22 +189,25 @@ Everything is working.
 
 ## 7. The Catastrophic Failure
 
-No one knows exactly what caused it. Sterling's best theory, reconstructed afterward:
+No one knows exactly what caused the failure. Dr. Sterling's post-incident analysis suggests a rapid chain reaction:
 
-The wetland's chemical contamination was **more severe than the preliminary readings suggested**. When the suit's BioScan Array came into contact with the full concentration of industrial compounds in the water — compounds that were never present in lab conditions — it triggered an **electromagnetic feedback loop** through the suit's power cell.
+```mermaid
+graph TD
+    A["Severe Chemical Contamination"] -->|"BioScan Contact"| B["Electromagnetic Feedback Loop"]
+    B -->|"Power Surge"| C["DSEE Overload (0.3s)"]
+    C -->|"Simultaneous Discharge"| D["DNA Data Scattered (2km Radius)"]
+    D -->|"Absorbed by Invaders"| E["Aggressive DNA Splicing"]
+    E -->|"Mutations Form"| F["Invasive Chimeras"]
+```
 
-The power surge hit the DSEE.
-
-In 0.3 seconds, the DNA Storage and Expression Engine experienced a complete system overload.
-
-### What Happened to the Stored DNA
-The DSEE did not simply fail. It **discharged**.
-
-All twelve stored native genomes — compressed biological data held in the suit's matrix — released simultaneously as a burst of raw biological energy. The data scattered outward across the wetland in a radius of approximately two kilometers, absorbed by whatever living tissue it contacted.
-
-The invasive species — already present in enormous numbers, their biology aggressive and absorptive — took on the native DNA in fragments, splicing it with their own chaotic genomes.
-
-The result was the **Invasive Chimeras**: massive, mutated creatures built from scrambled native animal DNA layered over invasive species biology. Powerful. Unstable. Territorial.
+### ⚡ The Failure Sequence
+1. **Severe Toxin Exposure:** The suit's BioScan Array contacted industrial compounds far more concentrated than any tested in lab conditions.
+2. **Electromagnetic Feedback:** This contact triggered a massive feedback loop through the suit's power cell.
+3. **System Overload:** The power surge hit the DSEE (DNA Storage and Expression Engine), overloading the system in 0.3 seconds.
+4. **Energy Discharge:** The DSEE did not simply shut down; it discharged all twelve stored native genomes as a burst of raw biological energy.
+5. **DNA Scattering:** The biological data scattered outward across a two-kilometer radius.
+6. **Invasive Splicing:** Local invasive species, known for their aggressive and absorptive biology, absorbed the fragments of native DNA.
+7. **Chimera Creation:** The genetic merging mutated the invasives into **Invasive Chimeras**—unstable, highly aggressive creatures holding pieces of the native genomes.
 
 ### What Was Left in the Suit
 Nothing. The DSEE was completely wiped. Every stored genome was gone.
