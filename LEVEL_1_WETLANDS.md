@@ -10,6 +10,7 @@
 
 ## 📋 Table of Contents
 1. [World Description](#1-world-description)
+   - [The Problem — Ecosystem Damage & What Needs Repair](#the-problem--ecosystem-damage--what-needs-repair)
 2. [Map Sections](#2-map-sections)
 3. [Invasive Nests & Grunt Enemies](#3-invasive-nests--grunt-enemies)
 4. [The Four NPCs](#4-the-four-npcs)
@@ -34,6 +35,49 @@ The Polluted Wetlands is the first biome and the player's introduction to the wo
 - On spawn: *"Volunteer, your suit is locked to frog form for now. The data's out there. Find it."*
 - On first Invasive Nest: *"Those nests are producing the toxins. Clear them out — the land will start healing."*
 - On finding first NPC: *"There's a life signature nearby. Not an enemy — approach carefully."*
+
+---
+
+### ⚠️ The Problem — Ecosystem Damage & What Needs Repair
+
+The Polluted Wetlands did not become this way overnight. It is the result of **years of compounding ecological harm** — industrial runoff, unchecked invasive species, and the collapse of native animal populations. The player enters at the tipping point: the wetland is close to a complete die-off.
+
+#### 🧪 Damage to the Ecosystem
+
+| Damage Type | What Happened | Visible Effect in the Level |
+|---|---|---|
+| **Chemical Pollution** | Industrial waste and agricultural runoff have flooded the wetland with heavy metals, fertilizers, and pesticides. | Brown, opaque water; toxic sludge pools; dead floating fish; no clean water zones at the start |
+| **Oxygen Depletion** | Excess nutrients in the water caused algal blooms that, when they died, consumed all dissolved oxygen in the water — a process called **eutrophication**. | Suffocating mudfish; stagnant, foul-smelling water; no visible aquatic life in the deeper zones |
+| **Invasive Species Takeover** | Four invasive species — Mosquito Swarms, Giant African Snails, Cane Toads, and Feral Tilapia — have been introduced into the wetland without natural predators to check their growth. They are now reproducing unchecked. | Nests throughout every zone; native animals hiding or gone; enemies actively attacking the remaining survivors |
+| **Trophic Cascade Collapse** | With native small fish wiped out by Tilapia, birds like the Purple Heron have lost their food source. The food chain is breaking from the middle. | Tagak hiding in the reeds, unable to hunt; empty skies; no bird activity anywhere in the wetland |
+| **Scavenger Displacement** | Water Monitors and other scavengers have been driven away from their territory by the Chimera's toxic spread. Dead organic matter is piling up, triggering dangerous bacterial blooms. | Spreading dark bloom events; bacterial sludge expanding across water surfaces; Bayawak hiding in the deepest reeds |
+| **Habitat Destruction** | The reeds and root systems that native frogs and fish depend on for shelter and breeding have been clogged with sludge, suffocated, and crushed. | Dead reeds, collapsed log bridges, reduced plant life |
+
+#### 🐾 Damage to the Species
+
+| Species | Status | What Happened to Them |
+|---|---|---|
+| **Philippine Tree Frog** *(Lolo Palaka)* | Critically reduced — hiding | Skin absorbs toxins directly from water; population has collapsed as water quality failed |
+| **Philippine Mudfish** *(Dalag)* | Endangered locally — suffocating | Dissolved oxygen levels dropped so low that entire juvenile populations are dying without ever being attacked |
+| **Purple Heron** *(Tagak)* | Starving — displaced | Native prey fish eliminated by Tilapia; forced out of traditional hunting grounds |
+| **Asian Water Monitor** *(Bayawak)* | Isolated — territory lost | Chimera's toxin spread has made its usual range uninhabitable; scavenger role is no longer possible |
+| **Native aquatic insects** | Near-total collapse | Replaced by invasive Mosquito Swarms, which carry disease instead of pollinating and feeding the food web |
+| **Native fish populations** | Functionally eliminated | Outcompeted and directly predated by Feral Tilapia, which thrive in low-oxygen, polluted water |
+
+#### 🔧 What Needs to Be Repaired
+
+The player's actions throughout the level directly address each repair need below. This is the restoration arc of Level 1:
+
+| Repair Needed | How It Gets Fixed in the Level |
+|---|---|
+| **Remove the invasive species** | Clearing all Invasive Nests removes the source of the invasive population pressure |
+| **Restore dissolved oxygen** | Completing Dalag's Oxygen Defense reduces Tilapia pressure, allowing water oxygen to recover |
+| **Rebuild the food chain** | Protecting Tagak and restoring frog and mudfish populations re-links the trophic chain from bottom to top |
+| **Restart the scavenger cycle** | Completing Bayawak's Timed Scavenge Race removes the bacterial bloom before it becomes permanent |
+| **Neutralize the toxin source** | Defeating the Snail-Toad Chimera eliminates the primary source of ongoing chemical contamination |
+| **Restore native habitat** | Each cleared nest triggers a small environmental visual restoration — color returns, plants revive, water clears slightly |
+
+> **🌱 The core promise of Level 1:** By the time the player defeats the Chimera, they have not just won a fight — they have reversed the dominant threats to every surviving native species in the wetland. The final cutscene reflects this: color returns to the water, reeds grow back, and the first clean sky appears above the swamp.
 
 ---
 
