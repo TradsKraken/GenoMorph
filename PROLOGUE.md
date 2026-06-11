@@ -69,15 +69,15 @@ Old electronics, shipped from wealthier nations for "recycling," were dumped ill
 
 **Dr. Alistair Sterling** is not a field scientist. He is quick to say so.
 
-He is a **biomedical engineer and geneticist** who spent the first twenty years of his career in pharmaceutical research — reading genomes, designing drug delivery systems, understanding how biological material could be stored, stabilized, and precisely introduced into a living body. He is brilliant with machines. He is uncomfortable with mud.
+He is a **biomedical engineer and geneticist** who spent the first twenty years of his career in pharmaceutical research — reading genomes, designing drug delivery systems, understanding how biological material could be stored, stabilized, and precisely introduced into a living body. He is brilliant with machines, and admittedly uncomfortable with mud. 
 
-The death of the ecosystem was not something he planned to fix. He had watched it happen the way that people watch most slow disasters: with a mixture of grief and helplessness, aware that the scale of the problem dwarfed anything an individual could do.
+Yet, beneath his clinical demeanor lies a deep, lifelong love for nature—a connection to the wild he had long suppressed under layers of lab coats and spreadsheets. 
 
-What changed him was not an epiphany. It was a **conversation with a colleague** — a wildlife biologist who had spent years cataloguing the remaining native species of the region and was watching them disappear faster than she could document them. She told him:
+The death of the ecosystem broke his heart. He had watched it happen the way that most people watch slow disasters: with a mixture of grief and helplessness, believing the scale of the problem dwarfed anything an individual could do.
 
-> *"The animals are not the problem and they are not the solution. They are the ecosystem. Without them, the land doesn't know how to be land anymore."*
+What changed him was the realization of what would happen if he did nothing. Looking at the rapidly expanding dead zones, he understood a simple truth: the plants and animals are not just residents of the land—they *are* the land. Without them, the ecosystem has no memory of how to function.
 
-Sterling went home and started designing.
+This realization reawakened his quiet, suppressed love for the wild. Eager to help and determined to apply his expertise where it mattered most, Sterling turned away from pharmaceutical research, went home to his workshop, and started designing.
 
 ### What He Believed
 Sterling's central conviction — the principle behind everything he built — was this:
@@ -102,9 +102,9 @@ The **GenoMorph** is a full-body adaptive suit — form-fitting, layered, and la
 2. **Store** that genome in a compressed biological matrix within the suit's memory
 3. **Express** the stored genome on the wearer's body — triggering a controlled, temporary biological transformation into that animal form
 
-The transformation is not theatrical. It is **total**. The wearer's body restructures — bone density, musculature, sensory organs, skin, respiratory system — to match the stored genome. The process takes approximately four seconds. The wearer experiences the world as the animal: echolocation, thermal sensing, lateral line detection, olfactory tracking — whatever the form provides.
+The transformation is not theatrical. It is **total and physical**. The wearer's bone structure and musculature reconfigure, their respiratory system adapts, and their senses expand to perceive the world exactly as the animal does—whether through echolocation, thermal sensing, or lateral line detection. 
 
-When the wearer shifts back to human, the body returns to baseline within six seconds. No lasting change. No tissue damage. The suit manages the entire cycle.
+The suit safely manages the entire transition cycle, returning the wearer to their human baseline without tissue damage or lasting physical strain.
 
 ### Key Systems
 
@@ -328,24 +328,28 @@ And somewhere in the bodies of four massive Chimeras is the DNA of the animals t
 
 *[A half-second of stillness.]*
 
-*[Then — the power surge. A burst of white light. A sound like every circuit breaking at once.]*
+*[Then — the power surge. A blinding burst of white light, followed by a violent electrical crackle. A warning klaxon sounds briefly before dying.]*
 
-*[SLOW MOTION: twelve pulses of golden light erupting from the suit, scattering outward across the wetland in all directions. The DNA dispersing. Gone.]*
+*[SLOW MOTION: Twelve distinct, brilliant pulses of golden light erupt from the suit's chest piece, scattering outward across the dark wetland like shooting stars. The DNA database is dispersing. Gone.]*
 
-*[The player's perspective drops to frog-height. Everything is suddenly enormous. The water is close. The world is dark and brown and chemical-smelling.]*
+*[The camera drops violently to frog-height. The world undergoes a jarring perspective shift: towering reeds look like redwoods, toxic sludge drops are the size of boulders, and the horizon is a distant, blurry line. A heavy, chemical-laden dampness fills the air. The player's breath is shallow and rapid—the breathing of a panicked, small animal.]*
 
-*[Silence.]*
+*[The Volunteer's hands, now webbed, dark green, and tiny, press into the mud. They try to stand, but their new center of gravity is too low; they wobble and tumble onto their side in the swamp mud.]*
 
-*[Then, the distant sound of something massive, somewhere deeper in the swamp, awakening.]*
+*[Silence, save for the rhythmic, foreign sound of the Volunteer's own wet throat pulsing.]*
+
+*[Then, the distant, water-muffled roar of something massive awakening deep in the swamp. The sound vibrates directly through the mud under the Volunteer's belly.]*
 
 **DR. STERLING (RADIO):**
-*[Static. A long pause.]*
-*"Volunteer. Can you hear me? Please respond."*
+*[Heavy static. Dr. Sterling's voice is laced with genuine panic.]*
+*"Volunteer! Volunteer, do you copy? The biometric stream is haywire—please respond!"*
 
 **[PAUSE — TWO SECONDS]**
+*We hear the Volunteer's breath, high-pitched and strange. They look down at their webbed limbs.*
 
 **VOLUNTEER:**
-*"I'm here. I'm— I'm a frog."*
+*[Voice trembling, slightly muffled]*
+*"I'm here. I'm... I'm down in the mud. Sterling, I'm a frog. I'm literally a frog."*
 
 **DR. STERLING (RADIO):**
 *"I know. I'm sorry."*
@@ -368,6 +372,18 @@ And somewhere in the bodies of four massive Chimeras is the DNA of the animals t
 
 > **🌿 GENOMORPH**
 > *Transform and Thrive. Keep the Wild Alive.*
+
+**[FADE OUT TITLE CARD — BLACK]**
+
+**[FADE IN — GAMEPLAY]**
+*A heavy droplet of chemical-laced rain falls from a giant reed directly toward the player. The suit HUD flashes: **[SPACEBAR] to Leap**.*
+
+*The player leaps just in time. The toxic droplet splatters behind them, burning a patch of grass. The HUD flashes: **[MOUSE 1] to Feed**. An invasive Mosquito flies close. The player clicks, their tongue snapping out to catch the bug, instantly healing the minor armor damage from the toxic splash.*
+
+*Sterling's voice crackles back in over the radio.*
+
+**DR. STERLING (RADIO):**
+*"Okay... suit telemetry is stable. Your basic biological systems are functioning. You need to get moving, Volunteer—something big is heading towards your signature."*
 
 **[PLAYER GAINS CONTROL]**
 
