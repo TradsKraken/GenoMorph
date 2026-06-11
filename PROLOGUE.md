@@ -276,12 +276,12 @@ And somewhere in the bodies of four massive Chimeras is the DNA of the animals t
 **[FADE IN — ARCHIVAL FOOTAGE STYLE]**
 *Slow, amber-toned images: a thriving wetland at golden hour. Herons in still water. A frog perched on a lily pad. Small fish darting in clear shallows. A Hornbill calling from a high branch.*
 
-**NARRATOR (V.O.):**
+**DR. STERLING (V.O.):**
 *"There is a word ecologists use: keystone. A keystone species is one that holds everything else in place — whose presence keeps the balance, whose absence causes collapse."*
 
 *[Cut. Images shift: the same places, degraded. Brown water. Dead trees. Concrete cutting through forest. Bleached reef.]*
 
-**NARRATOR (V.O.):**
+**DR. STERLING (V.O.):**
 *"This region lost most of its keystones. Not at once. Quietly. Over decades. The way a wall loses its mortar."*
 
 **[HARD CUT — INTERIOR, LAB — NIGHT]**
@@ -298,11 +298,14 @@ And somewhere in the bodies of four massive Chimeras is the DNA of the animals t
 **[CUT — MONTAGE: SUIT ASSEMBLY]**
 *Time-lapse of the GenoMorph suit being built, tested, refined. Lab tests — a suited figure briefly flickering between human silhouette and the outline of a frog. Sterling watching data streams, writing notes, discarding designs, starting over.*
 
-**[CUT — EXTERIOR, LAB ENTRANCE — DAY]**
-*The Volunteer arrives. Sterling meets them at the door. Brief handshake. They walk inside together.*
+**[CUT — EXTERIOR, DEGRADED WETLANDS BORDER — DAY]**
+*We see the Volunteer from behind, standing at a wire fence overlooking the ruined, brown wetlands. They are holding Sterling's recruitment listing. Their posture is still, carrying a quiet grief that hardens into resolve. They fold the paper and turn away from the dead water, walking with purpose.*
 
 **DR. STERLING (V.O.):**
 *"I found the right person. Someone who knew this land. Someone who wanted it back."*
+
+**[CUT — EXTERIOR, LAB ENTRANCE — DAY]**
+*The Volunteer arrives at Sterling's lab. Sterling meets them at the door. A brief, firm handshake. They walk inside together.*
 
 **[CUT — INTERIOR, LAB — LATER]**
 *Sterling shows the Volunteer the suit hanging in its storage frame. He explains. The Volunteer listens carefully, then nods.*
