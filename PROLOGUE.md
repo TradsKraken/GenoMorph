@@ -147,9 +147,29 @@ What we know:
 - They are skilled outdoors: tracking, swimming, climbing, wilderness navigation
 - They are not trained in combat — but they learn fast
 
+### Why This Person — The Biological Reason
+Sterling did not select the Volunteer based on their application alone. Every serious applicant underwent a quiet second screening they were never told about: a DNA compatibility test, administered through a simple blood sample collected at the first in-person meeting under the pretense of a routine health check.
+
+The GenoMorph's **Neural Interface** — the system that translates animal sensory input into information a human brain can process — does not work with just anyone. The transformation is total and physical. For the suit to safely rewrite the wearer's sensory architecture without causing permanent neurological damage, the wearer's genome must carry a specific cluster of traits: high neural plasticity, an unusually adaptive sensory cortex, and a rare variant of the gene that governs the body's tolerance for rapid biological change. Sterling had identified this genetic profile years earlier during his pharmaceutical research and had quietly built the suit around it.
+
+Out of everyone who applied, only the Volunteer matched.
+
+Sterling knows this. He has never told them directly — he is not sure how to explain that they were chosen, in part, because of something written into their cells before they were born. But he carries it. It is one of the reasons he stays on the radio. It is the closest thing he can offer to an apology for the weight he has placed on someone else.
+
+**Why Sterling Cannot Go Himself:**
+Sterling has tested his own compatibility. He knows the answer. His genome does not carry the required profile — his neural architecture is too rigid, too specialized in one direction. He spent twenty years training his brain to think in the precise, analytical language of laboratory science. The suit would not be able to translate the animal senses into anything his mind could process without causing serious harm. He would go in and come back broken, or not come back at all.
+
+This is the part he does not say out loud, but it shapes everything:
+
+> *He built a suit he cannot wear. So he found the one person who could.*
+
 Sterling meets the Volunteer once in person before the test run, in his lab. He shows them the suit. He explains the transformation. He tells them the honest version:
 
 > *"I don't know everything that will happen when you put this on. The prototype has worked in controlled conditions. The field is not a controlled condition. I will be with you the entire time through the radio. But you will be the one in the suit."*
+
+What he does not say — but what the Volunteer will eventually learn — is the rest of it:
+
+> *"And I will be with you on the radio because I cannot be anywhere else. Because the suit was never going to fit me. And you were always going to be the one."*
 
 The Volunteer says yes.
 
@@ -227,17 +247,25 @@ A pause. Then:
 
 > *"I'm here. I'm— I'm a frog."*
 
-> *"I know. I'm sorry. The system — the surge wiped everything. All twelve genomes are gone. The Chimeras are forming. I'm tracking four major signatures already."*
+> *"I know. I'm sorry. Just — stay still. I'm trying to read what's left."*
 
-> *"What do I do?"*
+A longer pause. The sound of frantic keystrokes. Sterling's voice comes back unsteady.
 
-Sterling's answer comes slowly. He has already run the math.
+> *"The DSEE didn't just fail. It discharged. All twelve genomes went out as raw biological energy — I have no idea where they landed. They could be in the water, the soil, the air. They could be in anything out there that was close enough to absorb them."*
 
-> *"The DNA didn't disappear. It's still out there — inside the Chimeras. If we can defeat them and extract what they absorbed, the Purification Module can still clean it. We can rebuild the database. One genome at a time."*
+> *"What does that mean?"*
+
+> *"It means whatever is living in that wetland right now — I don't know what it is anymore. The surge happened fast. Biology doesn't wait. If something absorbed even a fragment of that data, it won't look or behave like anything normal. You need to be careful. You need to be very careful."*
+
+> *"So what do I do?"*
+
+Sterling doesn't answer immediately. When he does, his voice is quieter — not calm, but honest.
+
+> *"The data is still out there somewhere. It has to be. Energy doesn't disappear — it just moves. Your suit's Purification Module is still active. If you can find what absorbed those genomes and get close enough, the suit might be able to read and recover the data. But I can't tell you what you'll find. I don't know yet. I'm still running the numbers."*
 
 > *"Starting from a frog."*
 
-> *"...Starting from a frog."*
+> *"...Starting from a frog. I'm sorry."*
 
 ---
 
@@ -308,7 +336,27 @@ And somewhere in the bodies of four massive Chimeras is the DNA of the animals t
 *The Volunteer arrives at Sterling's lab. Sterling meets them at the door. A brief, firm handshake. They walk inside together.*
 
 **[CUT — INTERIOR, LAB — LATER]**
-*Sterling shows the Volunteer the suit hanging in its storage frame. He explains. The Volunteer listens carefully, then nods.*
+*Sterling shows the Volunteer the suit hanging in its storage frame. He explains the transformation. Then he pauses — the kind of pause that means there is more.*
+
+**DR. STERLING:**
+*"There is something else I need to tell you. About why it's you specifically."*
+
+*[He pulls up a genomic display on one of his monitors. Two DNA profiles side by side — one labeled with the Volunteer's name, one labeled simply: AS.]*
+
+**DR. STERLING:**
+*"The suit's Neural Interface — the system that makes the transformation survivable — it requires a very specific genetic profile. High neural plasticity. An adaptive sensory cortex. A tolerance for rapid biological change that most people simply don't have."*
+
+*[He points to the second profile — his own.]*
+
+**DR. STERLING:**
+*"I tested myself first. Years ago, before I even finished building it. My genome doesn't carry it. I spent too long training my brain to think in one direction. The suit would tear my mind apart trying to speak to it in a language it has already forgotten how to hear."*
+
+*[Beat. He closes the display.]*
+
+**DR. STERLING:**
+*"You were the only applicant who matched. Which means the suit was always going to need you. I just needed to find you."*
+
+*[The Volunteer looks at the suit for a long moment. Then back at Sterling.]*
 
 **VOLUNTEER:**
 *"When do we start?"*
@@ -355,21 +403,30 @@ And somewhere in the bodies of four massive Chimeras is the DNA of the animals t
 *"I'm here. I'm... I'm down in the mud. Sterling, I'm a frog. I'm literally a frog."*
 
 **DR. STERLING (RADIO):**
-*"I know. I'm sorry."*
+*"I know. I'm sorry. Just — stay still. I'm trying to read what's left."*
 
-*[Beat.]*
+*[The sound of frantic keystrokes through the radio static.]*
 
-*"The DNA didn't disappear. It's still out there — inside the Chimeras. If we defeat them and extract what they absorbed, we can rebuild. One genome at a time."*
+**DR. STERLING (RADIO):**
+*"The DSEE discharged. All twelve genomes — gone from the suit. Released as raw biological energy. I don't know where they landed. The water, the soil... anything that was close enough could have absorbed fragments. Whatever is living in that wetland right now — I don't know what it is anymore."*
+
+**VOLUNTEER:**
+*"What do I do?"*
+
+*[A long pause. When Sterling speaks again, he sounds quieter — not calm, but honest.]*
+
+**DR. STERLING (RADIO):**
+*"The data is still out there somewhere. It has to be. Your suit's Purification Module is still active — if you can find what absorbed those genomes and get close enough, the suit may be able to read and recover what's left. But I can't tell you what you'll find out there. I don't know yet."*
 
 **VOLUNTEER:**
 *"Starting from a frog."*
 
 **DR. STERLING (RADIO):**
-*"...Starting from a frog."*
+*"...Starting from a frog. I'm sorry."*
 
 *[Beat.]*
 
-*"Your suit is locked to Frog form for now. The data's out there. Find it."*
+*"Your suit is locked to Frog form for now. Go carefully, Volunteer. Whatever is out there — it isn't ordinary anymore."*
 
 **[TITLE CARD FADES IN]**
 
