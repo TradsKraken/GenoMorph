@@ -8,23 +8,26 @@
 
 | Field | Details |
 |---|---|
-| **Animal Form** | Small Native Frog |
+| **Level Title** | Level 1 — The Polluted Wetlands |
+| **Player Form** | Small Native Frog |
 | **Skill to Synthesize** | Cutaneous Respiration |
 | **Boss** | The Snail-Toad Chimera |
-| **Unlocks Access To** | Level 2 — The Fragmented Rainforest *(blocked by a concrete highway — only flight can pass it)* |
+| **Level Goal** | Defeat the boss to purify the corrupted Bird DNA sequence and unlock access to Level 2 (The Fragmented Rainforest), which is currently blocked by a towering concrete highway. |
 
 ---
 
 ## 📋 Table of Contents
 
 1. [World Description](#1-world-description)
-2. [Ecosystem Damage & Repair](#2-ecosystem-damage--repair)
-3. [Map Sections](#3-map-sections)
-4. [Invasive Nests & Grunt Enemies](#4-invasive-nests--grunt-enemies)
-5. [The Four NPCs](#5-the-four-npcs)
-6. [Genome Fragment Synthesis](#6-genome-fragment-synthesis)
-7. [Boss Fight — The Snail-Toad Chimera](#7-boss-fight--the-snail-toad-chimera)
-8. [Level Flow Summary](#8-level-flow-summary)
+2. [The Frog's Combat Kit](#2-the-frogs-combat-kit)
+3. [Ecosystem Damage & Repair](#3-ecosystem-damage--repair)
+4. [Map Sections](#4-map-sections)
+5. [Invasive Nests & Grunt Enemies](#5-invasive-nests--grunt-enemies)
+6. [The Four NPCs](#6-the-four-npcs)
+7. [Progression & Checkpoints](#7-progression--checkpoints)
+8. [Genome Fragment Synthesis](#8-genome-fragment-synthesis)
+9. [Boss Fight — The Snail-Toad Chimera](#9-boss-fight--the-snail-toad-chimera)
+10. [Level Flow Summary](#10-level-flow-summary)
 
 ---
 
@@ -33,11 +36,11 @@
 The Polluted Wetlands is the **first biome** and the player's introduction to the world. It is a semi-open, interconnected swamp divided into several zones that unlock progressively as the player clears Invasive Nests.
 
 ### Visual Tone
-Dark and murky — brown water, grey sludge, dying reeds, dead floating fish. Scattered patches of color appear where small restoration events have already happened (a hint of green, a flower that survived). As the player clears nests and completes NPC challenges, these color patches slowly expand.
+Dark and murky — brown water, grey sludge, dead floating fish, and dying reeds. As the player clears Invasive Nests, small restoration events occur, bringing back hints of green and blooming flowers.
 
 ### Environmental Hazards
 - **Toxic sludge pools** — drain health slowly if stood in
-- **Collapsed log bridges** — require finding another path around
+- **Collapsed log bridges** — require finding another path around / detours
 - **Thick fog zones** — low visibility near Invasive Nests
 
 ### Dr. Sterling Radio Callouts
@@ -51,7 +54,18 @@ At key moments, Dr. Sterling's voice comes through the suit radio:
 
 ---
 
-## 2. Ecosystem Damage & Repair
+## 2. The Frog's Combat Kit
+
+The player utilizes a top-down, right-thumb combat cluster with the following biology-based mechanics (Mobile Legends Style):
+
+- **Primary Attack (Sticky Tongue Whip):** A spammable, mid-range linear strike. It damages enemies and features an "Execute" mechanic—when an enemy hits 0 HP, the tongue snaps them into the frog's mouth to consume them.
+- **Skill 1 (Webbed Lunge):** A close-quarters physical dash using the hind legs. It physically strikes and knocks back enemies, perfect for intercepting fast threats.
+- **Skill 2 (Splashdown Jump):** A dual-function mobility/AoE tool. Tapping causes a vertical jump and immediate slam for local shockwave damage. Dragging allows the player to manually aim their leap before landing and creating the shockwave.
+- **Ultimate Skill (Cutaneous Respiration):** Unlocked at the end of the level. Dashing into a shallow water pool rapidly regenerates the player's health for 3 seconds while emitting a mild Area-of-Effect toxin pulse. It has an 8-second cooldown. (Reduced to 6s at Level 10).
+
+---
+
+## 3. Ecosystem Damage & Repair
 
 The Polluted Wetlands did not become this way overnight. It is the result of **years of compounding ecological harm** — industrial runoff, unchecked invasive species, and the collapse of native animal populations. The player enters at the tipping point: the wetland is close to a complete die-off.
 
@@ -94,7 +108,7 @@ The player's actions directly address each repair need below. This is the **rest
 
 ---
 
-## 3. Map Sections
+## 4. Map Sections
 
 The map is divided into **4 zones**. Each zone is locked behind Invasive Nest clearance. The player cannot proceed to the next zone until they defeat all nests in the current one.
 
@@ -116,14 +130,14 @@ The map is divided into **4 zones**. Each zone is locked behind Invasive Nest cl
 
 | Zone | Name | Key Events |
 |---|---|---|
-| **Zone 1** | The Stagnant Shore | Player spawns. First Invasive Nests. First NPC encounter. |
+| **Zone 1** | The Stagnant Shore | **The Tutorial:** Right at the spawn point, a single, small mosquito swarm approaches the player, serving as a safe tutorial for the Sticky Tongue Whip and Splashdown Jump. First NPC encounter. |
 | **Zone 2** | The Inner Swamp | Denser nest clusters. Toxic sludge pools appear. NPC 2. |
 | **Zone 3** | The Reed Beds | Highest enemy density before the boss. NPC 3 and NPC 4. |
 | **Zone 4** | The Elder's Hollow | The deepest, oldest part of the swamp. Boss arena unlocks here. |
 
 ---
 
-## 4. Invasive Nests & Grunt Enemies
+## 5. Invasive Nests & Grunt Enemies
 
 Invasive Nests are clusters of enemies the player must defeat in real-time combat. Clearing a nest **restores a small patch of the environment** and **opens the path forward**.
 
@@ -133,10 +147,10 @@ Each nest is visually distinct — a pulsing, dark mass of writhing invasive cre
 
 | Enemy | Type | Behavior | Ecological Lesson |
 |---|---|---|---|
-| **Invasive Mosquito Swarm** | Swarm | Circles the player; rapid small damage; hard to hit individually | Mosquitoes as vectors of disease; danger of unchecked insect populations |
+| **Invasive Mosquito Swarm** | Swarm | Circles the player and deals small, rapid damage; hard to hit individually | Mosquitoes as vectors of disease; danger of unchecked insect populations |
 | **Giant African Snail** | Tank / Slow | Moves slowly toward the player; fires small toxic spit projectiles | Invasive snails as crop and ecosystem destroyers |
-| **Cane Toad** | Ranged / Ambush | Hides in sludge; leaps out and poisons the player on contact | Cane toads as one of the world's worst invasive species |
-| **Feral Tilapia School** | Fast / Pack | Small fish that rush the player near water edges in coordinated bursts | Invasive tilapia outcompeting native fish for food and space |
+| **Cane Toad** | Ranged / Ambush | Hides in the sludge; leaps out to poison the player on contact | Cane toads as one of the world's worst invasive species |
+| **Feral Tilapia School** | Fast / Pack | Fast pack hunters that rush the player in coordinated bursts near water edges | Invasive tilapia outcompeting native fish for food and space |
 
 ### Nest Progression by Zone
 
@@ -149,7 +163,7 @@ Each nest is visually distinct — a pulsing, dark mass of writhing invasive cre
 
 ---
 
-## 5. The Four NPCs
+## 6. The Four NPCs
 
 Each NPC is a **native species survivor** hiding in a secure spot in the biome. They each teach a different ecological lesson and give the player a **combat or minigame challenge**. Completing the challenge earns a **Genome Fragment** — a piece of biological data the suit needs to synthesize the Cutaneous Respiration skill.
 
@@ -170,8 +184,8 @@ Each NPC is a **native species survivor** hiding in a secure spot in the biome. 
 
 Frogs absorb everything through their skin — toxins in the water go directly into their body. A dying frog population means the whole ecosystem is failing.
 
-**Challenge — Biological Control Arena**
-A wave-clearing combat challenge. Mosquito swarms spawn from four corners of a small pond. The player must use the frog's basic attacks and AoE ability to consume the swarms before they infect the center of the pond (a health-bar mechanic for the pond itself).
+**Minigame Challenge — Biological Control Arena**
+A wave-clearing combat challenge. The player must wave-clear mosquito swarms from four corners of a small pond before they infect the center of the pond (a health-bar mechanic for the pond itself).
 
 - **2 waves** of increasing swarm density
 - **Fail condition:** Pond health reaches 0 → restart the wave
@@ -195,8 +209,8 @@ A wave-clearing combat challenge. Mosquito swarms spawn from four corners of a s
 
 Polluted water loses dissolved oxygen. Invasive Tilapia consume oxygen aggressively, leaving native fish to suffocate.
 
-**Challenge — Oxygen Defense**
-The player must protect a small school of young native mudfish (glowing dots in the water) from Feral Tilapia schools. The Tilapia rush in waves, targeting the young mudfish directly. The player uses frog attacks to intercept them.
+**Minigame Challenge — Oxygen Defense**
+The player must intercept rushing Feral Tilapia to protect a school of young native mudfish (glowing dots in the water) from their coordinated attacks.
 
 - **3 waves**, with Tilapia coming from multiple directions in the last wave
 - The young mudfish have individual health — if all of them die, the challenge fails
@@ -220,8 +234,8 @@ The player must protect a small school of young native mudfish (glowing dots in 
 
 If invasive species wipe out small native fish, the birds that feed on them starve too. The whole chain collapses from one missing piece.
 
-**Challenge — Escort Mission**
-Tagak needs to cross the Reed Beds to reach a safe nesting area. The player must escort him while fending off ambushes of Cane Toads and Mosquito Swarms that target Tagak specifically. Tagak cannot fight — the player must intercept every attack aimed at him.
+**Minigame Challenge — Escort Mission**
+Tagak needs to cross the Reed Beds to reach a safe nesting area. The player must defend the slow-moving heron from ambushes of Cane Toads and Mosquito Swarms.
 
 - Tagak moves slowly and **stops when enemies are nearby**
 - If Tagak's health reaches 0, the challenge fails
@@ -246,8 +260,8 @@ Tagak needs to cross the Reed Beds to reach a safe nesting area. The player must
 
 Scavengers prevent disease outbreak by removing dead organic matter. Removing them causes toxic bacterial blooms.
 
-**Challenge — Timed Scavenge Race**
-A bacterial bloom spreads across a section of the swamp (visualized as a spreading dark cloud moving across the water). The player must dash between 8 marked spots and "tag" them before the bloom reaches each one. A fast, movement-based challenge that rewards speed and efficiency.
+**Minigame Challenge — Timed Scavenge Race**
+A fast dash to tag dead organic matter before a dark bacterial cloud (visualized as a spreading dark cloud moving across the water) consumes the area. 
 
 - **8 spots** to tag; bloom spreads at increasing speed
 - **Fail condition:** More than 3 spots consumed by the bloom → toxic sludge permanently fills the path forward
@@ -258,9 +272,47 @@ A bacterial bloom spreads across a section of the swamp (visualized as a spreadi
 
 ---
 
-## 6. Genome Fragment Synthesis
+## 7. Progression & Checkpoints
 
-Once all four Genome Fragments are collected, the suit automatically initiates synthesis. Dr. Sterling narrates over the radio:
+- **Bio-Data (Leveling):** Defeating enemies and clearing nests drops green "Bio-Data" orbs. If the player is within a close radius (a magnetic pull), they absorb it to gain EXP.
+- **Bio-Syncs (Checkpoints):** When a nest is destroyed, a patch of land heals. Walking over it triggers a "Bio-Sync" save point.
+- **The Corpse Run:** If the player dies, they respawn at the last Bio-Sync. However, their current level's accumulated Bio-Data drops at their death location, forcing them to fight their way back to reclaim it.
+
+### Bio-Data Leveling Curve
+
+| Level | Bio-Data Required | Notes |
+|---|---|---|
+| **Level 1** | 0 | Starting Level |
+| **Level 2** | 100 | Usually reached after clearing the tutorial swarm and first nest |
+| **Level 3** | 250 | |
+| **Level 4** | 450 | |
+| **Level 5** | 700 | |
+| **Level 6** | 1,000 | |
+| **Level 7** | 1,350 | |
+| **Level 8** | 1,750 | |
+| **Level 9** | 2,200 | |
+| **Level 10 (Max)**| 2,800 | Reached right before fighting the Snail-Toad Chimera. Any new Bio-Data collected acts as an "Adrenaline Surge," giving a 3-second speed boost instead of EXP. |
+
+### Suit Upgrade Milestones
+
+| Suit Level | Milestone / Trigger | Suit Upgrade (Reward) |
+|---|---|---|
+| **Level 1** | Spawn in Zone 1 (The Drop) | **Base Stats:** Starting Health and Damage |
+| **Level 2** | Defeat the Tutorial Mosquito Swarm | **Muscle Density:** Max HP increased by 5% |
+| **Level 3** | Clear Nests 1 & 2 (Zone 1) | **Tongue Elasticity:** Sticky Tongue Whip damage +10% |
+| **Level 4** | Complete Lolo Palaka's Arena | **Hind Leg Spring:** Amphibian Hop (Dodge) distance +10% |
+| **Level 5** | Defeat first Giant African Snails | **Kinetic Force:** Splashdown Jump AoE radius +10% |
+| **Level 6** | Clear Nests 3, 4, 5 (Zone 2) | **Muscle Density II:** Max HP increased by another 5% |
+| **Level 7** | Complete Dalag's Defense | **Reflex Optimization:** Sticky Tongue Whip speed +15% |
+| **Level 8** | Survive Tagak's Escort Mission | **Impact Force:** Splashdown Jump damage +15% |
+| **Level 9** | Clear Nests 6, 7, 8, 9 (Zone 3) | **Toxic Resistance:** Movement speed in Sludge +10% |
+| **Level 10** | Complete Synthesis Event (Zone 4) | **Glandular Efficiency:** Cutaneous Respiration cooldown reduced (8s ➔ 6s) |
+
+---
+
+## 8. Genome Fragment Synthesis
+
+Once all four Genome Fragments are collected (clearing Zone 3), the suit automatically initiates synthesis. Dr. Sterling narrates over the radio:
 
 > *"Volunteer — I'm reading four complete biological data sets from your suit. Skin permeability, oxygen diffusion, moisture sensing, and water purity calibration. I'm compiling them now. The suit is... learning how to be a frog. Not just look like one — actually function like one."*
 
@@ -278,14 +330,14 @@ Frogs absorb water, oxygen, and some toxins directly through their semi-permeabl
 | **Activate** | Dash into any water puddle or wet surface on the map |
 | **Effect** | Rapid health regeneration for 3 seconds while inside the water |
 | **Secondary Effect** | While regenerating, the frog emits a mild AoE toxin pulse, dealing small damage to nearby enemies *(represents defensive skin secretions)* |
-| **Cooldown** | 8 seconds after leaving the water |
+| **Cooldown** | 8 seconds after leaving the water (Reduced to 6s at Level 10) |
 
 **Why it matters for the boss:**
 The boss arena has scattered shallow water pools. The player must use these strategically — dash in to heal, pulse toxin, then dash out to attack before the cooldown ends. Fighting the boss without using the water pools is nearly impossible.
 
 ---
 
-## 7. Boss Fight — The Snail-Toad Chimera
+## 9. Boss Fight — The Snail-Toad Chimera
 
 ### What It Is
 
@@ -293,7 +345,7 @@ A massive, mutated creature composed of the DNA of an invasive Giant African Sna
 
 **Narrative context:** The Chimera has been absorbing the toxic sludge of the wetland for weeks. It is both a product of the pollution and a cause of it — wherever it walks, the ground becomes more poisoned. Defeating it stops the toxin source.
 
-### Boss Arena Layout
+### Zone 4: The Elder's Hollow (Boss Arena Layout)
 
 A semi-circular muddy clearing surrounded by dense reeds. The floor contains:
 - **Toxic sludge patches** — damage over time if stood in
@@ -342,21 +394,24 @@ The Chimera collapses. The suit interface flashes — it is extracting data.
 
 > *"I'm reading it now... yes. There's a corrupted Bird DNA sequence tangled in the Chimera's muscle tissue. Hold still while I purify it."* — Dr. Sterling
 
-A brief cutscene shows the shell cracking open, golden DNA strands rising from it and being absorbed into the suit.
+**The Synthesis:** The suit extracts the corrupted DNA and purifies it into Bird DNA. A brief cutscene shows the shell cracking open, golden DNA strands rising from it and being absorbed into the suit. 
 
-**The suit briefly transforms the player into the Rufous Hornbill** — then immediately back to Frog form — to confirm the sequence is stored.
+**The Transformation:** The suit briefly transforms the player into the **Rufous Hornbill** — then immediately back to Frog form — to confirm the sequence is stored.
 
 > *"The Avian Form is locked and ready, Volunteer. But you can't use it here — the suit needs a solid surface to complete the transformation. Get to the edge of the wetland. There's a concrete highway on the other side. That's your runway."*
 
+**The Restoration:** A cutscene triggers showing the wetland healing, color returning, and the water clearing, prompting the player to head to the concrete highway to start Level 2.
+
 ---
 
-## 8. Level Flow Summary
+## 10. Level Flow Summary
 
 A clean top-to-bottom reading of the level from start to finish:
 
 ```
 SPAWN — Zone 1 (Stagnant Shore)
   Dr. Sterling radio intro plays
+  → The Tutorial: Single mosquito swarm approaches (learn Sticky Tongue Whip & Splashdown Jump)
 
   → Clear Nest 1 & 2 (Mosquito Swarms)
   → Find Lolo Palaka (Elder Tree Frog)
