@@ -40,7 +40,7 @@ Dark and murky — brown water, grey sludge, dead floating fish, and dying reeds
 
 ### Environmental Hazards
 - **Toxic sludge pools** — drain health slowly if stood in
-- **Collapsed log bridges** — require finding another path around / detours
+- **Collapsed log bridges** — require finding another path around / detours *(Note: these are designed to be too tall to bypass with the Splashdown Jump)*
 - **Thick fog zones** — low visibility near Invasive Nests
 
 ### Dr. Sterling Radio Callouts
@@ -238,8 +238,9 @@ If invasive species wipe out small native fish, the birds that feed on them star
 Tagak needs to cross the Reed Beds to reach a safe nesting area. The player must defend the slow-moving heron from ambushes of Cane Toads and Mosquito Swarms.
 
 - Tagak moves slowly and **stops when enemies are nearby**
+- **Haste Mechanic:** Striking Tagak with the Sticky Tongue Whip gives her a temporary 3-second speed boost (without dealing damage) to help manage pacing.
 - If Tagak's health reaches 0, the challenge fails
-- Enemies come from unexpected directions — the player must stay alert and mobile
+- Enemies come from unexpected directions — the player must heavily utilize **Webbed Lunge** to intercept and **Splashdown Jump** for crowd control.
 - **Teach moment:** *"I cannot restore the chain alone. But you — you can be everywhere I cannot."*
 
 **Reward: 🧬 Genome Fragment 3 — Moisture Sensing Data**
@@ -263,7 +264,7 @@ Scavengers prevent disease outbreak by removing dead organic matter. Removing th
 **Minigame Challenge — Timed Scavenge Race**
 A fast dash to tag dead organic matter before a dark bacterial cloud (visualized as a spreading dark cloud moving across the water) consumes the area. 
 
-- **8 spots** to tag; bloom spreads at increasing speed
+- **8 spots** to tag; bloom spreads at increasing speed. Designed to be a high-intensity, fast-paced sprint (under 60 seconds) to maintain momentum.
 - **Fail condition:** More than 3 spots consumed by the bloom → toxic sludge permanently fills the path forward
 - **Teach moment:** *"Speed matters. Nature does not wait. The cleanup crew is never late — or the world pays for it."*
 
@@ -276,7 +277,7 @@ A fast dash to tag dead organic matter before a dark bacterial cloud (visualized
 
 - **Bio-Data (Leveling):** Defeating enemies and clearing nests drops green "Bio-Data" orbs. If the player is within a close radius (a magnetic pull), they absorb it to gain EXP.
 - **Bio-Syncs (Checkpoints):** When a nest is destroyed, a patch of land heals. Walking over it triggers a "Bio-Sync" save point.
-- **The Corpse Run:** If the player dies, they respawn at the last Bio-Sync. However, their current level's accumulated Bio-Data drops at their death location, forcing them to fight their way back to reclaim it.
+- **The Corpse Run:** If the player dies, they respawn at the last Bio-Sync. However, **50% of their current level's accumulated Bio-Data** drops at their death location. This keeps the tutorial forgiving while encouraging them to reclaim it. Suit Upgrade Milestones are permanently kept.
 
 ### Bio-Data Leveling Curve
 
@@ -383,7 +384,7 @@ The shell fully cracks. The exposed core is now the **only damageable hitbox** �
 | Attack | Description | How to Counter |
 |---|---|---|
 | **Spinning Shell** | Rotates rapidly with shell facing outward — touching it damages you | Attack only from the front opening |
-| **Poison Puddle Summon** | Summons 4 new sludge pools around existing water pools | Water pools shrink — the player must be precise |
+| **Poison Puddle Summon** | Summons 4 new sludge pools around existing water pools | Water pools shrink. **Cleanse Mechanic:** Player can use Splashdown Jump on a poisoned pool to cleanse it, sacrificing their mobility cooldown. |
 | **Final Slam Sequence** | Three consecutive shell slams in a row | Pattern: left → right → center — dodge the full sequence |
 
 ---
