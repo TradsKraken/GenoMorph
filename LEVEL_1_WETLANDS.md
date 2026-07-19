@@ -152,6 +152,12 @@ Each nest is visually distinct — a pulsing, dark mass of writhing invasive cre
 | **Cane Toad** | Ranged / Ambush | Hides in the sludge; leaps out to poison the player on contact | Cane toads as one of the world's worst invasive species |
 | **Feral Tilapia School** | Fast / Pack | Fast pack hunters that rush the player in coordinated bursts near water edges | Invasive tilapia outcompeting native fish for food and space |
 
+### Neutral Creatures & Pickups
+
+| Creature | Type | Behavior & Reward | Ecological Lesson |
+|---|---|---|---|
+| **Nutrient Worm** | Neutral / Consumable | Roams aimlessly and scattered across the map. Does not attack. The frog can kill (eat) it to instantly recover a small amount of Health. | Represents the base of the food web and natural sustenance in a recovering ecosystem. |
+
 ### Nest Progression by Zone
 
 | Zone | Nest Count | Enemy Types |
