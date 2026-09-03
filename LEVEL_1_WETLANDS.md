@@ -23,7 +23,7 @@
 3. [Ecosystem Damage & Repair](#3-ecosystem-damage--repair)
 4. [Map Sections](#4-map-sections)
 5. [Invasive Nests & Grunt Enemies](#5-invasive-nests--grunt-enemies)
-6. [The Four NPCs](#6-the-four-npcs)
+6. [The Native NPCs](#6-the-native-npcs)
 7. [Progression & Checkpoints](#7-progression--checkpoints)
 8. [Genome Fragment Synthesis](#8-genome-fragment-synthesis)
 9. [Boss Fight — The Snail-Toad Chimera](#9-boss-fight--the-snail-toad-chimera)
@@ -123,14 +123,14 @@ The map is divided into **4 zones**. Each zone is locked behind Invasive Nest cl
 │  ZONE 2 — THE INNER SWAMP             [NPC 2]            │
 │  (Unlocks after Zone 1 is cleared)                       │
 ├─────────────────────────────────────────────────────────┤
-│  ZONE 1 — THE STAGNANT SHORE          [SPAWN + NPC 1]    │
+│  ZONE 1 — THE STAGNANT SHORE          [SPAWN + 8 FROGS]  │
 │  (Starting area — always accessible)                     │
 └─────────────────────────────────────────────────────────┘
 ```
 
 | Zone | Name | Key Events |
 |---|---|---|
-| **Zone 1** | The Stagnant Shore | **The Tutorial:** Right at the spawn point, a single, small mosquito swarm approaches the player, serving as a safe tutorial for the Sticky Tongue Whip and Splashdown Jump. First NPC encounter. |
+| **Zone 1** | The Stagnant Shore | **The Tutorial:** Right at the spawn point, a single, small mosquito swarm approaches the player, serving as a safe tutorial for the Sticky Tongue Whip and Splashdown Jump. First NPC encounter (Lolo Palaka), who tasks the player to save 7 more frogs. |
 | **Zone 2** | The Inner Swamp | Denser nest clusters. Toxic sludge pools appear. NPC 2. |
 | **Zone 3** | The Reed Beds | Highest enemy density before the boss. NPC 3 and NPC 4. |
 | **Zone 4** | The Elder's Hollow | The deepest, oldest part of the swamp. Boss arena unlocks here. |
@@ -169,15 +169,15 @@ Each nest is visually distinct — a pulsing, dark mass of writhing invasive cre
 
 ---
 
-## 6. The Four NPCs
+## 6. The Native NPCs
 
-Each NPC is a **native species survivor** hiding in a secure spot in the biome. They each teach a different ecological lesson and give the player a **combat or minigame challenge**. Completing the challenge earns a **Genome Fragment** — a piece of biological data the suit needs to synthesize the Cutaneous Respiration skill.
+The main NPCs are **native species survivors** hiding in secure spots in the biome. They each teach a different ecological lesson and give the player a **combat or minigame challenge**. Completing the challenge earns a **Genome Fragment** — a piece of biological data the suit needs to synthesize the Cutaneous Respiration skill.
 
-> **Why 4 NPCs?** The Cutaneous Respiration skill is built from four real biological data points: skin permeability, oxygen diffusion, moisture sensing, and water quality reading. Each NPC contributes one piece of that biological puzzle.
+> **Why 4 Main NPCs?** The Cutaneous Respiration skill is built from four real biological data points: skin permeability, oxygen diffusion, moisture sensing, and water quality reading. Each Elder NPC contributes one piece of that biological puzzle.
 
 ---
 
-### 🐸 NPC 1 — Lolo Palaka (The Elder Tree Frog)
+### 🐸 NPC 1 — Lolo Palaka (The Elder Tree Frog) & The 7 Lost Frogs
 
 | Field | Details |
 |---|---|
@@ -186,16 +186,17 @@ Each NPC is a **native species survivor** hiding in a secure spot in the biome. 
 | **Role** | First NPC the player meets. The wetland's historian and the player's emotional anchor for the level. |
 
 **Ecological Lesson — Frogs as Bioindicators**
-> *"When the water sickens, we sicken first. Our skin tells the truth of the water before any instrument can."*
+> *"When the water sickens, we sicken first. Our skin tells the truth of the water before any instrument can. But I am not the only one left... there are others trapped out there."*
 
-Frogs absorb everything through their skin — toxins in the water go directly into their body. A dying frog population means the whole ecosystem is failing.
+Frogs absorb everything through their skin — toxins in the water go directly into their body. A dying frog population means the whole ecosystem is failing. When the player saves Lolo Palaka, he reveals that **7 more frogs** are scattered across Zone 1, needing rescue from the invasive swarms.
 
-**Minigame Challenge — Biological Control Arena**
-A wave-clearing combat challenge. The player must wave-clear mosquito swarms from four corners of a small pond before they infect the center of the pond (a health-bar mechanic for the pond itself).
+**Minigame Challenge — Rescue the 7 Frogs & Biological Control Arena**
+First, the player must explore Zone 1 to locate and save 7 trapped frogs. After returning them to Lolo Palaka, a wave-clearing combat challenge begins. The player must wave-clear mosquito swarms from four corners of a small pond before they infect the center of the pond (a health-bar mechanic for the pond itself).
 
-- **2 waves** of increasing swarm density
-- **Fail condition:** Pond health reaches 0 → restart the wave
-- **Teach moment:** *"You see? One frog can hold back thousands. This is what balance looks like."*
+- **Exploration phase:** Find and interact with 7 scattered frogs.
+- **Combat phase (2 waves):** Increasing swarm density.
+- **Fail condition:** Pond health reaches 0 → restart the wave.
+- **Teach moment:** *"You see? Together, we can hold back thousands. This is what balance looks like."*
 
 **Reward: 🧬 Genome Fragment 1 — Skin Permeability Data**
 > *"My people's skin is the most sensitive surface in this swamp. It knows the difference between clean water and death."*
@@ -219,6 +220,7 @@ Polluted water loses dissolved oxygen. Invasive Tilapia consume oxygen aggressiv
 The player must intercept rushing Feral Tilapia to protect a school of young native mudfish (glowing dots in the water) from their coordinated attacks.
 
 - **3 waves**, with Tilapia coming from multiple directions in the last wave
+- The young mudfish slowly drift in a tight, confined cluster to add mild unpredictability without being frustrating.
 - The young mudfish have individual health — if all of them die, the challenge fails
 - **Teach moment:** *"Oxygen is invisible but it is everything. The invaders never conserve it. They just consume."*
 
@@ -285,6 +287,19 @@ A fast dash to tag dead organic matter before a dark bacterial cloud (visualized
 - **Bio-Syncs (Checkpoints):** When a nest is destroyed, a patch of land heals. Walking over it triggers a "Bio-Sync" save point.
 - **The Corpse Run:** If the player dies, they respawn at the last Bio-Sync. However, **50% of their current level's accumulated Bio-Data** drops at their death location. This keeps the tutorial forgiving while encouraging them to reclaim it. Suit Upgrade Milestones are permanently kept.
 
+### Free-Roam Exploration & EXP Grinding
+
+To give the player agency outside of the main quests, the environment supports free-roaming exploration:
+- **Eco-Scans (Lore Nodes):** Interacting with unique environmental elements (e.g., industrial waste, rare native flora) triggers a short lore explanation from Dr. Sterling and drops a small burst of Bio-Data.
+- **Respawning Roamers:** Minor entities (like isolated Mosquito Swarms or Nutrient Worms) respawn periodically. If a player is struggling with a minigame, they can back away, explore, and farm these roamers for EXP to level up their suit.
+
+**Progression Gating (Quest Requirement):**
+While players can farm Bio-Data to become stronger, **they cannot progress to the next zone simply by leveling up.** The physical pathways between zones are strictly gated by the main quests:
+- **Physical Barriers:** Thick toxic sludge and overgrown roots block the exits to the next zone. These barriers only recede when the Invasive Nests in the current zone are destroyed.
+- **Key Items:** The final progression requires all 4 Genome Fragments, which can *only* be obtained by completing the NPC minigames. 
+
+This ensures players are rewarded for curiosity and preparation, but must still engage with the core restoration narrative to move forward.
+
 ### Bio-Data Leveling Curve
 
 | Level | Bio-Data Required | Notes |
@@ -300,20 +315,20 @@ A fast dash to tag dead organic matter before a dark bacterial cloud (visualized
 | **Level 9** | 2,200 | |
 | **Level 10 (Max)**| 2,800 | Reached right before fighting the Snail-Toad Chimera. Any new Bio-Data collected acts as an "Adrenaline Surge," giving a 3-second speed boost instead of EXP. |
 
-### Suit Upgrade Milestones
+### Player-Driven Attribute Allocation
 
-| Suit Level | Milestone / Trigger | Suit Upgrade (Reward) |
+Instead of linear, pre-determined upgrades, the player takes control of their own evolution. Every time the suit levels up via Bio-Data collection (Levels 2 through 10), the player earns **1 Evolution Point**.
+
+The player can spend these points in the Suit UI to increase specific attributes according to their playstyle:
+
+| Attribute Branch | Effect per Point | Max Points |
 |---|---|---|
-| **Level 1** | Spawn in Zone 1 (The Drop) | **Base Stats:** Starting Health and Damage |
-| **Level 2** | Defeat the Tutorial Mosquito Swarm | **Muscle Density:** Max HP increased by 5% |
-| **Level 3** | Clear Nests 1 & 2 (Zone 1) | **Tongue Elasticity:** Sticky Tongue Whip damage +10% |
-| **Level 4** | Complete Lolo Palaka's Arena | **Hind Leg Spring:** Amphibian Hop (Dodge) distance +10% |
-| **Level 5** | Defeat first Giant African Snails | **Kinetic Force:** Splashdown Jump AoE radius +10% |
-| **Level 6** | Clear Nests 3, 4, 5 (Zone 2) | **Muscle Density II:** Max HP increased by another 5% |
-| **Level 7** | Complete Dalag's Defense | **Reflex Optimization:** Sticky Tongue Whip speed +15% |
-| **Level 8** | Survive Tagak's Escort Mission | **Impact Force:** Splashdown Jump damage +15% |
-| **Level 9** | Clear Nests 6, 7, 8, 9 (Zone 3) | **Toxic Resistance:** Movement speed in Sludge +10% |
-| **Level 10** | Complete Synthesis Event (Zone 4) | **Glandular Efficiency:** Cutaneous Respiration cooldown reduced (8s ➔ 6s) |
+| **Muscle Density (Vitality)** | Increases Max HP by 5% | 3 |
+| **Tongue Elasticity (Offense)** | Increases Sticky Tongue Whip damage by 5% | 3 |
+| **Hind Leg Spring (Mobility)** | Increases Amphibian Hop (Dodge) distance and speed by 5% | 3 |
+| **Kinetic Force (AoE)** | Increases Splashdown Jump damage and radius by 5% | 3 |
+
+*Note: With 9 total level-ups available (Level 2 to 10) and 12 total points required to max everything, the player cannot max out every single attribute branch. This forces them to prioritize their preferred playstyle (e.g., a tanky brawler vs. a fast, high-damage glass cannon).*
 
 ---
 
@@ -422,7 +437,9 @@ SPAWN — Zone 1 (Stagnant Shore)
 
   → Clear Nest 1 & 2 (Mosquito Swarms)
   → Find Lolo Palaka (Elder Tree Frog)
-  → Complete Biological Control Arena
+  → Lolo Palaka informs player about 7 more frogs needing help
+  → Explore Zone 1 to find and rescue the 7 lost frogs
+  → Complete Biological Control Arena with the rescued frogs
   → Earn Genome Fragment 1 — Skin Permeability Data
   → Zone 2 unlocks
 
